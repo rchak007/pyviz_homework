@@ -6,6 +6,10 @@
 
 
 
+### Solution of plots are saved under "Solutions plot images" since Jupyter Notebook does not save them.
+
+### I also attached "rental_analysis.pdf" but it has not exported all plots, so i have them in directory "Solutions plot images"
+
 ## Dashboard instructions - 
 
 ##### Dashboard has 5 tabs - shown below in gif:
