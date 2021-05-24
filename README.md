@@ -4,6 +4,16 @@
 
 *[San Francisco Park Reading by Juan Salamanca](https://www.pexels.com/photo/park-san-francisco-reading-61109/) | [Free License](https://www.pexels.com/photo-license/)*
 
+
+
+## Dashboard instructions - 
+
+##### Dashboard has 5 tabs - shown below in gif:
+
+
+
+![dashboard-demo.gif](Images/dashboard-demo.gif)
+
 ## Background
 
 Harold's company has just started a new Real Estate Investment division to provide customers with a broader range of portfolio options. Harold was tasked with building a prototype dashboard and he needs your help. The real estate team wants to trial this initial offering with investment opportunities for the San Francisco market. If the new service is popular, then they can start to expand to other markets.
@@ -67,7 +77,7 @@ In this section, you will use hvplot to create two interactive visulizations of 
 **Hint:** It will be easier to create a new DataFrame from grouping the data and calculating the mean prices for each year and neighborhood.
 
   ![avg-price-neighborhood.png](Images/avg-price-neighborhood.png)
-  
+
   ![gross-rent-neighborhood.png](Images/gross-rent-neighborhood.png)
 
 
@@ -113,7 +123,7 @@ Using the provided DataFrame to create the following visualizations:
     **Hint:** You can learn more about sunburst charts in Plotly Express in [this link](https://plotly.com/python/sunburst-charts/).
 
     ![sunburst](Images/sunburst.png)
- 
+
 ---
 
 ### Dashboard
